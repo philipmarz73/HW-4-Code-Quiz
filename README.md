@@ -15,4 +15,4 @@ For guidance, one is given a GIF to watch the application in action, a brief ste
 
 ### License
 
-&copy MIT;
+&copyMIT
