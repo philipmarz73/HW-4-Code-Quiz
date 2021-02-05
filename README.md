@@ -11,3 +11,8 @@ This Project simulates part of what happens at many coding job interviews: a cod
 ### Resources
 
 For guidance, one is given a GIF to watch the application in action, a brief step-by-step description of how the application should function, and what components are required to build it. Multiple-choice questions are created by the coder. Personal resources I have relied on for the completion of this project include my patient, hard-working TA's, my even-more patient tutor, Kris Renaldi, and my colleague, Steven Mccarther, who has discussed and shared his insights on all of the exercises we have had to complete: thanks again, Steven!
+
+
+### License
+
+&copy MIT
